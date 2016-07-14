@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template" client="site">
+        <name>KGU new</name>
+        <license>GNU/GPL</license>
+        <version>1.0.0</version>
+        <description></description>
+    <files>
+        <filename>index.html</filename>
+        <filename>index.php</filename>
+        <filename>templateDetails.xml</filename>
+        <folder>images</folder>
+        <folder>css</folder>
+        <folder>html</folder>
+        <folder>fonts</folder>
+        <folder>js</folder>
+    </files>
+    <positions>
+        <position>logo-text</position>
+        <position>slogan</position>
+        <position>license</position>
+        <position>contacts</position>
+        <position>contacts-hidden</position>
+        <position>top-menu</position>
+        <position>house-img</position>
+        <position>house-categories</position>
+        <position>about-us-left</position>
+        <position>about-us-right</position>
+        <position>clients</position>
+        <position>sertificates</position>
+        <position>top-center</position>
+        <position>content</position>
+        <position>bottom-center</position>
+        <position>footer-address</position>
+        <position>footer-phones-left</position>
+        <position>footer-phones-right</position>
+        <position>footer-time-work</position>
+        <position>email-down</position>
+        <position>slider-inside</position>
+        <position>breadcrumb</position>
+        <position>brands</position>
+        <position>zakaz-btn</position>
+        <position>slider</position>
+        <position>slide-1</position>
+        <position>slide-2</position>
+        <position>slide-3</position>
+        <position>langwich</position>
+        <position>mobile</position>
+        <position>search</position>
+        <position>slider_menu_top</position>
+    </positions>
+</extension>

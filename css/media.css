@@ -1,0 +1,617 @@
+@media only screen and (min-width:801px) and (max-width:900px){
+  body, html {
+    overflow-x: hidden;
+  }
+  .lider{
+   display:none;
+  }
+  .header .right-side{
+    right: 4%;
+  }
+  header{
+    padding-bottom: 30px;
+  }
+  .owl-carousel {
+    width: 98%;
+   }
+   .searchvm{
+     top: 80px;
+  }
+  .house-wrap {
+    width: 100%;
+  }
+  .logo {
+    left: 0%;
+    top: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+}
+ .house-wrap {
+    width: 100%;
+  }
+  .main .accordion_slider {
+    display: none;
+  }
+  .vm-product-media-container{
+    width: 31%;
+  }
+  
+  .about-us{
+    width: 95%;
+  }
+  
+  .clients{
+    width: 90%;
+  }
+ .sertificates{
+    width: 100%;
+  }
+  .sertificates .blocks{
+    width: 33%;
+    margin-bottom: 30px;
+  }
+  ul.breadcrumb{
+   margin-left: 20px;
+   width: 100%;
+  }
+  
+  .main{
+   width: 90%;
+   margin-top: 20px;
+  }
+  
+}
+
+@media only screen and (min-width:769px) and (max-width:800px){
+  body, html {
+    overflow-x: hidden;
+  }
+  .owl-carousel{
+    width: 96%;
+  }
+  .searchvm{
+     top: 80px;
+  }
+  ul.breadcrumb{
+   margin-left: 20px;
+   width: 100%;
+  }
+  
+  .vm-product-media-container{
+    width: 25%;
+  }
+  
+  .lider{
+   display:none;
+  }
+  .header .right-side{
+    right: 2%;
+  }
+  header{
+    padding-bottom: 35px;
+  }
+  .logo {
+    left: 0%;
+    top: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+}
+.house-wrap {
+    width: 100%;
+  }
+  .main .accordion_slider {
+    display: none;
+  }
+  
+  .about-us{
+    width: 95%;
+  }
+  .clients{
+    width: 90%;
+  }
+  .sertificates{
+    width: 100%;
+  }
+  .sertificates .blocks{
+    width: 33.33%;
+    margin-bottom: 30px;
+  }
+  .main {
+    width: 90%;
+    margin-top: 20px;
+}
+  
+}
+@media only screen and (min-width:601px) and (max-width:768px){
+  .line-from-device {
+    display: none;
+}
+  html {
+    overflow-x: hidden;
+  }
+  body {
+    overflow-x: hidden;
+    
+  }
+  .owl-carousel{
+    width: 96%;
+  }
+  .searchvm{
+     top: 80px;
+     margin-top: 20px;
+  }
+  ul.breadcrumb{
+   margin-left: 20px;
+   width: 100%;
+  }
+  
+  .lider{
+   display:none;
+  }
+  .header .right-side{
+    right: 2%;
+  }
+  header{
+    padding-bottom: 35px;
+  }
+  .logo {
+    left: 0;
+    top: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+  }
+  .house-wrap{
+    width:100%;
+    margin:0;
+    height: 650px; 
+  }
+  .house-wrap .main-house{
+    background:none;
+    width: 0;
+    height: 0;
+    position: inherit;
+     bottom: 0;
+    margin-left: 0;
+  }
+  .house-blocks li {
+    position: inherit;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  .house-blocks li img{
+    display:none;
+  }
+  .house-blocks li span{
+        width: 600px;
+	font-size: 18px;
+	margin-bottom: 30px;
+  }
+  .product-text-right{
+      width: 100%;
+  }
+  .main .accordion_slider {
+    display: none;
+  }
+  .house-wrap .house-condition{
+    background: none;
+  }
+  ul.nav.menu.house-blocks {
+    margin-top: 40px;
+  }
+  .about-us{
+    width: 90%;
+  }
+  .clients{
+    width: 80%;
+  }
+  .sertificates{
+    width:100%;
+  }
+  .sertificates .blocks{
+    width: 50%;
+    margin-bottom: 20px;
+  }
+  .main{
+    width: 90%;
+    margin-top: 20px;
+  }
+  .e-mail p{
+    position: relative;
+    top: 55px;
+  }
+  .footer-wrap{
+    padding-bottom: 50px;
+  }
+  .searchvm {
+   width: initial;
+  }
+  #mod_virtuemart_search{
+    width: 260px;
+  }
+  
+}
+@media only screen and (min-width:481px) and (max-width:600px){
+  .line-from-device {
+    display: none;
+}
+  html {
+    overflow-x: hidden;
+  }
+  body {
+    overflow-x: hidden;
+    
+  }
+  .lider{
+   display:none;
+  }
+  .header .right-side{
+    right: 2%;
+  }
+  header{
+    padding-bottom: 35px;
+  }
+  .logo {
+    left: 0;
+    top: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+  }
+  .logo-rus{
+    display:none;
+  }
+  .house-wrap{
+    width:100%;
+    margin:0;
+    height: 650px; 
+  }
+  .product-text-right{
+    width: 100%;
+  }
+  .house-wrap .main-house{
+    background:none;
+    width: 0;
+    height: 0;
+    position: inherit;
+     bottom: 0;
+    margin-left: 0;
+  }
+  .house-blocks li {
+    position: inherit;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  .house-blocks li img{
+    display:none;
+  }
+  .house-blocks li span{
+        width: 600px;
+	font-size: 18px;
+	margin-bottom: 30px;
+  }
+  .house-blocks li span{
+    width: 500px;
+  }
+  .main .accordion_slider {
+    display: none;
+  }
+  .house-wrap .house-condition{
+    background: none;
+  }
+  ul.nav.menu.house-blocks {
+    margin-top: 40px;
+  }
+  .owl-carousel{
+    width: 95%;
+  }
+  .searchvm{
+     top: 80px;
+     margin-top: 20px;
+  }
+  ul.breadcrumb{
+   margin-left: 20px;
+   width: 100%;
+  }
+  .about-us {
+    width: 90%;
+  }
+  .clients{
+    width: 85%;
+  }
+  .sertificates .blocks {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  .main {
+    width: 90%;
+    margin-top: 20px;
+  }
+  #fca_phone_div{
+    display:none;
+  }
+  .mobile-version{
+    display:none;
+  }
+  .footer {
+    width: 90%;
+  }
+  .footer-wrap{
+    padding-bottom: 50px;
+  }
+  .e-mail p{
+    position: relative;
+    top: 50px;
+  }
+  .searchvm {
+   width: initial;
+   margin-top: 20px;
+  }
+  #mod_virtuemart_search{
+    width: 260px;
+  }
+  .logo-ukr{
+  display:none;
+  }
+  .nav { border-bottom: 1px solid rgba(0,0,0,0.1); }
+
+.toggle-nav {
+  display: block;
+  padding: 10px;
+  position: absolute;
+  right: 10px;
+  line-height: 30px;
+  z-index: 9999;
+  color:black;
+}
+
+.toggle-nav:after { content: ''; }
+.toggle-nav:focus{
+  color:black;
+}
+
+.nav-mobile { display: none; }
+
+.style-mobile {
+  top : 51px;
+  width : 100%;
+}
+
+.style-mobile li {
+  display: block;
+  width: 100%;
+}
+
+.nav .right {
+  display: block;
+  float: none;
+  margin: 0em;
+}
+
+.nav .left {
+  display: block;
+  float: none;
+  margin: 0em;
+}
+  
+
+  
+}
+@media only screen and (min-width:241px) and (max-width:480px){
+  html {
+    overflow-x: hidden;
+  }
+  body {
+    overflow-x: hidden;
+    
+  }
+  .owl-carousel{
+    width: 95%;
+  }
+  .searchvm{
+     top: 80px;
+     margin-top: 20px;
+  }
+  ul.breadcrumb{
+   margin-left: 20px;
+   width: 100%;
+  }
+  
+  .lider{
+   display:none;
+  }
+  .header .right-side{
+    right: 2%;
+  }
+  header{
+    padding-bottom: 35px;
+  }
+  .logo {
+    left: 0;
+    top: 10px;
+    width: 100%;
+    text-align: center;
+  }
+  .logo-rus{
+    display:none;
+  }
+  .house-wrap{
+    width:100%;
+    margin:0;
+    height: 650px; 
+  }
+  .house-wrap .main-house{
+    background:none;
+    width: 0;
+    height: 0;
+    position: inherit;
+     bottom: 0;
+    margin-left: 0;
+  }
+  .house-blocks li {
+    position: inherit;
+    margin-bottom: 20px;
+    width: 100%;
+    margin-left: 0px !important;
+  }
+  .house-blocks li img{
+    display:none;
+  }
+  .house-blocks li span{
+     width: 315px;
+    font-size: 14px;
+    margin-bottom: 30px;
+  }
+  .product-text-right {
+    width: 300px;
+  }
+  .vm-product-media-container {
+    width: 100%;
+    margin-top: 10px;
+  }
+  .spacer span.official-diller{
+    display:none;
+  }
+  
+  .main .accordion_slider {
+    display: none;
+  }
+  .house-wrap .house-condition{
+    background: none;
+  }
+  ul.nav.menu.house-blocks {
+    margin-top: 40px;
+  }
+   .about-us {
+    width: 100%;
+  }
+  .about-blocks {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  .company ul li {
+    margin-right: 15px;
+  }
+  .sertificates {
+    width: 100%;
+  }
+  .sertificates .blocks {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  .main {
+    width: 90%;
+    margin-top: 20px;
+  }
+  .footer-wrap{
+    padding-bottom: 170px;
+  }
+  .footer-section {
+    width: 30%;
+    height: 290px;
+  }
+  .footer {
+    width: 100%;
+  }
+  .left-contact {
+    width: 100%;
+  }
+  .right-contact {
+    width: 100%;
+  }
+  .e-mail p {
+    position: relative;
+    top: 50px;
+  }
+  .fca-ph-img-circle {
+    display: none;
+  }
+  div#fca_phone_div {
+    display: none !important;
+  }
+  .searchvm {
+   width: initial;
+  }
+  #mod_virtuemart_search {
+    width: 200px;
+  }
+  
+.nav { border-bottom: 1px solid rgba(0,0,0,0.1); }
+
+.toggle-nav {
+  display: block;
+  padding: 10px;
+  position: absolute;
+  right: 10px;
+  line-height: 30px;
+  z-index: 9999;
+  color:black;
+}
+
+.toggle-nav:after { content: ''; }
+.toggle-nav:focus{
+  color:black;
+}
+
+.nav-mobile { display: none; }
+
+.style-mobile {
+  top : 51px;
+  width : 100%;
+}
+
+.style-mobile li {
+  display: block;
+  width: 100%;
+}
+
+.nav .right {
+  display: block;
+  float: none;
+  margin: 0em;
+}
+
+.nav .left {
+  display: block;
+  float: none;
+  margin: 0em;
+}
+.logo-ukr{
+  display:none;
+}
+
+  .line-from-device {
+    display: none;
+  }
+  .info_prod_in .product-text-right {
+    width: 300px;
+  }
+  .main .custom.montazh div img{
+    width: 60%;
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+  .main .custom.montazh div p{
+   width: 60%;
+   right: 15px;
+    position: relative;
+  }
+  .call-num{
+    margin-left: 25px;
+    margin-bottom:15px;
+  }
+  .feed_bl{
+   margin-left: 25px !important;
+   margin-bottom:15px;
+  }
+  .product-zakaz{
+    margin-right: 0;
+    margin-left: 25px;
+    float: left;
+  }
+  .browse-view .main-image{
+    right: 0px;
+  }
+}
